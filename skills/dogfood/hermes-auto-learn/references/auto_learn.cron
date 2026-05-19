@@ -1,0 +1,9 @@
+# Hermes Auto-Learn Cron 配置
+# 安装: crontab auto_learn.cron
+# 每天凌晨1点到7点每小时执行一次
+
+# 凌晨1点-7点：自动学习脚本
+0 1-7 * * * /bin/bash $HOME/.hermes/skills/dogfood/hermes-auto-learn/scripts/auto_learn.sh > /dev/null 2>&1
+
+# 每周日早8点：生成周度回顾报告
+0 8 * * 7 echo "=== Weekly Review Ready ===" >> $HOME/.hermes/skills/auto_learned/weekly_flag.txt

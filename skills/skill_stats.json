@@ -1,0 +1,2554 @@
+{
+  "agent-auto-agent-model-portability": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-agent-observability": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-agent-sandbox-transactional-fs": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-ai-co-mathematician-workbench": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-ai-security-vulnerability-embargo": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Anthropic金融Agent模板参考架构 — 技能+连接器+子Agent模式": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "AOCI仓库级代码索引 — 让LLM一次读取理解全仓库": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-automation-trust-ladder": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-browser-vs-api-delegation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-business-monitor-automation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "AI生成代码质量管控 — Reasoning-Complexity Tradeoff": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-code-quality-trust-evaluation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-coding-agent-information-quality": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Agent任务成本决策 — API比Computer Use便宜45倍": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-content-publishing-safety": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-control-flow-over-prompts": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-cost-optimization-production": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-deepseek-v4-agent-context-window": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-deployment-pipeline-pitfalls": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-docker-model-runner": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-ds4-local-inference-mac": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-evolutionary-coding-agent-pattern": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-gui-grounding-bias-mitigation-bami": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-kiro-agentic-ide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-llm-code-review-evaluation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-llm-workflows-production": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-llms-discovery-protocol": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-local-deep-research-assistant": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-memory-engineering-architecture": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-messaging-payments-integration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "多Token预测推理加速 — Gemma 4 MTP Draft方案": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "多模型安全审计流水线": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-nla-interpretability-for-agents": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-nous-agent-framework": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-nous-typedai-framework": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-opus-4-5-agent-experience": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Agent推理过程评估 — 风险补偿效应与过程奖励模型": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-qwen3-coder-agentic": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Agent真实世界调试工作流": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-red-teaming-agent-automation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-search-agent-sft-recipe": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-self-evaluation-rubrics": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-specialized-agent-fleet-pattern": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-three-layer-memory-architecture": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-whatsapp-context-window-strategies": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-production-reality-check": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "opencode-coding-agent": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "vibe-coding-to-agentic-engineering": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-tools-matrix-2026": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-agent-four-eyes-architecture": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "openhuman-reference": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "apple-notes": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "apple-reminders": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "findmy": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "imessage": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-self-evolution-mechanism": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-agent-automation-workflows": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-agent-core-architecture": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-agent-industry-trends-2026": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-agent-private-deployment-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-low-cost-entrepreneurship-roadmap": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "blackbox": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "claude-code-china-setup": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "claude-code-wsl2-proxy-setup": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "claude-code": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "codex": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "enterprise-ai-digital-transformation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-agent": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "opencode": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-crossborder-content-knowledge-mapping": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-monetization-feasibility": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-video-pipeline-voice-scene-sync": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "content-operations-toolkit-batch": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-ai-tools-matrix": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-article-writing-template": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-blue-ocean-discovery": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-content-operation-full-chain": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-global-compliance-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-payment-tax-entity": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-platform-compliance-2026": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-platform-selection-2026": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-short-video-localization": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-social-media-traffic": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-store-matrix-2026": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-supply-chain-full-chain": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-three-models-2026": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "seedance-1.5-pro-video-generation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shopee-pricing-formula": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "short-video-30day-learning-content-plan": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "thailand-ecommerce-market-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "toutiao-article-layout-template": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "toutiao-content-topic-selection": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "toutiao-platform-rules": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "wechat-article-operation-basic": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "wechat-article-structure-template": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "architecture-diagram": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ascii-art": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ascii-video": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "capcut-cinematic-short-video": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ideation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "excalidraw": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "first-last-frame-design-principles": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "jianying-capcut-complete-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "jingge-video-editing-complete-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "manim-video": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "电影级短视频文案技巧": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "movie-level-short-video-script": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "movie-script-sample-ep3-ep4": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "p5js": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "popular-web-designs": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "seedance-20-prompt-formula": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "seedance-model-selection-and-dreamina-cli": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "songwriting-and-ai-music": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "cross-session-config-memory-discipline": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "跨境电商全链路学习资源库": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "jupyter-live-kernel": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "claude-code-china-network-setup": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "system-port-inspection": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "tencent-cloud-lighthouse-migration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "tencent-cloud-server-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "webhook-subscriptions": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "dogfood": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-auto-learn": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "himalaya": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "feishu-send-image-from-server": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "feishu-websocket-bot-setup": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "minecraft-modpack-server": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "pokemon-player": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "codebase-inspection": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "github-auth": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "github-code-review": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "github-issues": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "github-pr-workflow": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "github-repo-management": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "graphic-based-short-video-for-beginners": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "claude-code-wsl2-china-setup": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Agent网关平台选型指南": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-windows-wsl2-install": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Hermes Agent Computer Use 功能指南": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-sandbox-troubleshooting": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "find-nearby": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "lobe-chat-developer-document-writer": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "mcporter": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "native-mcp": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "gif-search": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "heartmula": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "songsee": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "youtube-content": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "auto-fetch": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "requirements-clarification": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Skill Factory": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "solution-comparison": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "token-compression": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "modal-serverless-gpu": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "evaluating-llms-harness": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "weights-and-biases": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "huggingface-hub": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "gguf-quantization": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "guidance": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "llama-cpp": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "obliteratus": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "outlines": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "serving-llms-vllm": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "audiocraft-audio-generation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "clip": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "segment-anything-model": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "stable-diffusion-image-generation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "whisper": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "dspy": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "axolotl": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "grpo-rl-training": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "peft-fine-tuning": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "pytorch-fsdp": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "fine-tuning-with-trl": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "unsloth": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "obsidian": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "find-skills": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "skillhub-preference": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "whaleclip-openclaw-skill": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-short-video-getting-started": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "daily-news-aggregator": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "google-workspace": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "linear": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "nano-pdf": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "notion": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ocr-and-documents": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "powerpoint": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "server-side-video-production": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "voice-cloning-setup": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-agent-natural-conversation-patterns": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-control-surface-vs-magic-spell": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-engineering-top-methodology": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-enterprise-prompt-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-hallucination-is-feature": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "AI输出不盲目信任原则 — 验证即信任": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "跨模型提示词可移植性": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-playbook-programmers": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-token-budget-management": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "structured-prompt-vs-blind-prompting": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "godmode": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "arxiv": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "blogwatcher": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "fallback-web-research": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "llm-wiki": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "polymarket": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "research-paper-writing": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "bimiyun-search": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shopee-thailand-newbie-guide": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-ai-assistant-web-deploy": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-kanban-video-pipeline": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "knowledge-card-design-for-toutiao-style": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "reference-video-card-analysis": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "server-video-style-analysis": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-account-matrix-building": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-ai-full-chain-production": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-ai-material-collection-editing": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-algorithm-bottom-differences": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-benchmark-account-deconstruction": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-business-ip-persona-positioning": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-content-monetization": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-for-beginners-no-face-no-screencast": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-private-domain-conversion": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-publish-weight-seo-hot-recommend": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-self-media-operation-2026": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shortvideo-viral-content-core-formula": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "anti-hallucination-self-check": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "automation-first-mindset": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "crossborder-pricing-formula": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "跨境选品可行性快速判断": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "daily-learning-10-points": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "执行-提炼-沉淀-复用-自省": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-auto-learn-cron-30topics": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-core-iron-law": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-openclaw-collaboration-workflow": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Agent Skills-as-Workflows 方法": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "skill-biz-experience-rag-agent-skill": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "openhue": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "xitter": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Academic Researcher Email Outreach": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Academic Researcher Outreach System": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "academic-researcher-user-validation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-agent-template-architecture": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-deepclaude": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-orchestration-patterns": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-producer-consumer-patterns": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-structured-outputs": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-auto-vision-vs-api-cost": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-agent-learning-path": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-cost-engineering-freemium": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-startup-campaign-testing-framework": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ai-startup-research-validation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "AI Startup User Validation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "configure-bimiyun-search": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "configure-tavily-search": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "context-engineering": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "desktop-gui-automation-assessment": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "fact-check-before-answer": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "feishu-wechat-enterprise-agent-integration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "h-config-skill-directory": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-auxiliary-provider-patching": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Hermes Auxiliary Vision Setup": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-cronjob-troubleshooting": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-memory-monitoring": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Hermes Multi-Agent Port Configuration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-multi-agent-profiles": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-multi-instance-guidelines": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "Hermes Multi-Project Feishu Configuration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-performance-diagnosis": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "incremental-implementation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "learning-hermes-agent": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "multi-agent-ceo-coordination": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "musk-ceo-user-validation-framework": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "PaperTextAnalyzer 原文证据标记（v2 - LLM回源匹配）": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "pdf-image-ocr-to-knowledge-skill": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "plan": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "project-specific-feishu-configuration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "project-specific-hermes-configuration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-agent-safe-use-ethics": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "prompt-agent-system-prompt": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "python-fstring-js-backtick-workaround": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "qq-email-smtp-automation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "requesting-code-review": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ResearchAudit 检测引擎与控制台集成": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ResearchAudit CEO Testing Framework": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ResearchAudit CEO Web Console Basic": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ResearchAudit 深度LLM论文审计引擎": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ResearchAudit Report Generator": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "researchaudit-test-sample-preparation": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ResearchAudit Web Console Deployment": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "ResearchAudit Web Console Local Testing": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "search-fallback-baidu-crawl": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "skill-biz-skill-description": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "spec-driven-development": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "structured-thinking": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "subagent-driven-development": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "systematic-debugging": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "test-driven-development": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-agent-production-failures": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "user-expectation-vs-system-reality": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "writing-plans": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "tavily-research": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "agent-database-safety-guardrails": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "server-blocked-from-social-platforms": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "server-ip-blocked-by-social-platforms": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "skill-v2-upgrade-offline-pattern": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-agent-claude-subscription-api": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-agent-code-production-security": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-agent-cost-overrun": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-agent-edge-case-contamination": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-agent-provider-switching": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "反合理化Scope纪律检查": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-agent-spec-drift-natural-language": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "troubleshoot-coding-agent-local-projects": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-health-check": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-installation-migration": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "hermes-provider-auth": {
+    "inject_count": 286,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "anysearch": {
+    "inject_count": 238,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "shopify": {
+    "inject_count": 176,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  },
+  "gbrain-install-configure": {
+    "inject_count": 119,
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "last_injected_at": "2026-05-18T17:18:04",
+    "effectiveness": 0.5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "installed": {
+    "shopify": {
+      "source": "skills.sh",
+      "identifier": "skills-sh/NousResearch/hermes-agent/optional-skills/productivity/shopify",
+      "trust_level": "community",
+      "scan_verdict": "dangerous",
+      "content_hash": "sha256:b978e8fa6788d988",
+      "install_path": "shopify",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "detail_url": "https://skills.sh/NousResearch/hermes-agent/optional-skills/productivity/shopify",
+        "repo_url": "https://github.com/NousResearch/hermes-agent"
+      },
+      "installed_at": "2026-05-18T03:22:19.262300+00:00",
+      "updated_at": "2026-05-18T03:22:19.262306+00:00"
+    }
+  }
+}
